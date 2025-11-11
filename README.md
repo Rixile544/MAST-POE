@@ -5,14 +5,6 @@ The Chef App is a web-based and mobile-friendly application built for the MAST P
 
 Features
 
-Home Screen – displays the main app functions and recipe categories
-
-Recipe Display – users can view detailed recipe information
-
-Ingredient Management – allows adding or editing ingredient lists
-
-Responsive Design – optimized for desktop and mobile devices
-
 TypeScript (TSX) – provides type safety and modular code organization
 
 Navigation – smooth transitions between screens and sections
